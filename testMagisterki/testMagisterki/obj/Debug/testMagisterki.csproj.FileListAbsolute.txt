@@ -1,0 +1,8 @@
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\bin\Debug\testMagisterki.exe.config
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\bin\Debug\testMagisterki.exe
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\bin\Debug\testMagisterki.pdb
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\bin\Debug\Microsoft.Concurrency.UnitTestingFramework.dll
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\obj\Debug\testMagisterki.exe
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\obj\Debug\testMagisterki.pdb
+C:\Users\rbroda\Documents\Visual Studio 2015\Projects\testMagisterki\testMagisterki\bin\Debug\GeneratedCodeFromModel.dll
+C:\Users\rbroda\Documents\Visual Studio 2015\Projects\testMagisterki\testMagisterki\obj\Debug\testMagisterki.csprojResolveAssemblyReference.cache

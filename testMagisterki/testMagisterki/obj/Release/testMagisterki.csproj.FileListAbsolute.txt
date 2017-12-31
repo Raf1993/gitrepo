@@ -1,0 +1,6 @@
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\bin\Release\testMagisterki.exe.config
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\bin\Release\testMagisterki.exe
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\bin\Release\testMagisterki.pdb
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\bin\Release\Microsoft.Concurrency.UnitTestingFramework.dll
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\obj\Release\testMagisterki.exe
+C:\Users\rbroda\documents\visual studio 2015\Projects\testMagisterki\testMagisterki\obj\Release\testMagisterki.pdb
